@@ -1,8 +1,7 @@
 .DS_Store
 ~$*
 .env
-.claude/lms_tms_api_key
-.claude/.env
+.claude/
 assessment/
 # Confidential assessment generator contains trainer-only marking content.
 courseware/build/build_assessment.py
