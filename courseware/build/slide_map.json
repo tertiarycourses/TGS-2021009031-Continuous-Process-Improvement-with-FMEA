@@ -1,0 +1,456 @@
+{
+  "topics": {
+    "1": {
+      "divider": 19,
+      "content": [
+        {
+          "title": "Improvement is a management system",
+          "slide": 21,
+          "kind": "big"
+        },
+        {
+          "title": "What continuous improvement changes",
+          "slide": 22,
+          "kind": "tiles"
+        },
+        {
+          "title": "Continuous improvement and breakthrough change",
+          "slide": 23,
+          "kind": "two"
+        },
+        {
+          "title": "Lean, Six Sigma and FMEA",
+          "slide": 24,
+          "kind": "cards"
+        },
+        {
+          "title": "A culture that can improve",
+          "slide": 25,
+          "kind": "tiles"
+        },
+        {
+          "title": "Continuous improvement governance",
+          "slide": 26,
+          "kind": "flow"
+        },
+        {
+          "title": "PDCA turns change into learning",
+          "slide": 27,
+          "kind": "pdca"
+        },
+        {
+          "title": "Plan with evidence",
+          "slide": 28,
+          "kind": "tiles"
+        },
+        {
+          "title": "Team roles in improvement",
+          "slide": 29,
+          "kind": "tiles"
+        },
+        {
+          "title": "SIPOC establishes the analysis boundary",
+          "slide": 30,
+          "kind": "flow"
+        },
+        {
+          "title": "Voice of customer and voice of process",
+          "slide": 31,
+          "kind": "two"
+        },
+        {
+          "title": "Coaching for team support",
+          "slide": 32,
+          "kind": "tiles"
+        }
+      ],
+      "end": 39
+    },
+    "2": {
+      "divider": 40,
+      "content": [
+        {
+          "title": "A root cause is a verified mechanism",
+          "slide": 42,
+          "kind": "big"
+        },
+        {
+          "title": "Build a neutral problem statement",
+          "slide": 43,
+          "kind": "tiles"
+        },
+        {
+          "title": "Cause, failure and consequence",
+          "slide": 44,
+          "kind": "two"
+        },
+        {
+          "title": "Pareto focuses the investigation",
+          "slide": 45,
+          "kind": "pareto"
+        },
+        {
+          "title": "Read a Pareto chart correctly",
+          "slide": 46,
+          "kind": "tiles"
+        },
+        {
+          "title": "Fishbone structures possible causes",
+          "slide": 47,
+          "kind": "fishbone"
+        },
+        {
+          "title": "From brainstorm to evidence",
+          "slide": 48,
+          "kind": "tiles"
+        },
+        {
+          "title": "Five Whys follows one causal chain",
+          "slide": 49,
+          "kind": "flow"
+        },
+        {
+          "title": "Strong and weak 5 Whys",
+          "slide": 50,
+          "kind": "two"
+        },
+        {
+          "title": "Fault Tree Analysis tests combinations",
+          "slide": 51,
+          "kind": "faulttree"
+        },
+        {
+          "title": "Fishbone, 5 Whys and Fault Tree",
+          "slide": 52,
+          "kind": "two"
+        },
+        {
+          "title": "Data quality checks before conclusion",
+          "slide": 53,
+          "kind": "tiles"
+        }
+      ],
+      "end": 60
+    },
+    "3": {
+      "divider": 62,
+      "content": [
+        {
+          "title": "FMEA is prevention made visible",
+          "slide": 64,
+          "kind": "big"
+        },
+        {
+          "title": "When FMEA has the most leverage",
+          "slide": 65,
+          "kind": "tiles"
+        },
+        {
+          "title": "Three common FMEA views",
+          "slide": 66,
+          "kind": "cards"
+        },
+        {
+          "title": "Prospective FMEA and retrospective RCA",
+          "slide": 67,
+          "kind": "two"
+        },
+        {
+          "title": "Seven-step FMEA method",
+          "slide": 68,
+          "kind": "flow"
+        },
+        {
+          "title": "Step 1 \u2014 planning and preparation",
+          "slide": 70,
+          "kind": "tiles"
+        },
+        {
+          "title": "Steps 2\u20133 \u2014 structure and function",
+          "slide": 71,
+          "kind": "tiles"
+        },
+        {
+          "title": "Step 4 \u2014 build the failure chain",
+          "slide": 72,
+          "kind": "failurechain"
+        },
+        {
+          "title": "Write useful failure statements",
+          "slide": 73,
+          "kind": "tiles"
+        },
+        {
+          "title": "Prevention and detection controls",
+          "slide": 74,
+          "kind": "two"
+        },
+        {
+          "title": "Step 5 \u2014 S, O and D describe different risk dimensions",
+          "slide": 75,
+          "kind": "riskmatrix"
+        },
+        {
+          "title": "Severity rating discipline",
+          "slide": 76,
+          "kind": "tiles"
+        },
+        {
+          "title": "Occurrence rating discipline",
+          "slide": 77,
+          "kind": "tiles"
+        },
+        {
+          "title": "Detection rating discipline",
+          "slide": 78,
+          "kind": "tiles"
+        },
+        {
+          "title": "RPN is useful\u2014but incomplete",
+          "slide": 79,
+          "kind": "cards"
+        },
+        {
+          "title": "Same number, different risk",
+          "slide": 80,
+          "kind": "two"
+        },
+        {
+          "title": "Step 6 \u2014 optimise in the right order",
+          "slide": 81,
+          "kind": "flow"
+        },
+        {
+          "title": "Strong recommended actions",
+          "slide": 82,
+          "kind": "tiles"
+        },
+        {
+          "title": "Step 7 \u2014 document and sustain",
+          "slide": 83,
+          "kind": "flow"
+        },
+        {
+          "title": "Review triggers for a living FMEA",
+          "slide": 84,
+          "kind": "tiles"
+        },
+        {
+          "title": "FMEA pitfalls",
+          "slide": 85,
+          "kind": "tiles"
+        }
+      ],
+      "end": 92
+    },
+    "4": {
+      "divider": 93,
+      "content": [
+        {
+          "title": "The best action changes the failure mechanism",
+          "slide": 95,
+          "kind": "big"
+        },
+        {
+          "title": "From risk to improvement portfolio",
+          "slide": 96,
+          "kind": "flow"
+        },
+        {
+          "title": "Countermeasure hierarchy",
+          "slide": 97,
+          "kind": "cards"
+        },
+        {
+          "title": "Opportunity sources",
+          "slide": 98,
+          "kind": "tiles"
+        },
+        {
+          "title": "DMAIC provides a project roadmap",
+          "slide": 99,
+          "kind": "tiles"
+        },
+        {
+          "title": "5S supports stable process conditions",
+          "slide": 100,
+          "kind": "tiles"
+        },
+        {
+          "title": "DOE tests factors and interactions",
+          "slide": 101,
+          "kind": "two"
+        },
+        {
+          "title": "Evaluation criteria",
+          "slide": 102,
+          "kind": "tiles"
+        },
+        {
+          "title": "Weighted criteria matrix and Pugh matrix",
+          "slide": 103,
+          "kind": "two"
+        },
+        {
+          "title": "Cost-benefit without false precision",
+          "slide": 104,
+          "kind": "tiles"
+        },
+        {
+          "title": "Pilot learning cycle",
+          "slide": 105,
+          "kind": "flow"
+        },
+        {
+          "title": "A credible pilot",
+          "slide": 106,
+          "kind": "tiles"
+        },
+        {
+          "title": "Poka-yoke strategies",
+          "slide": 107,
+          "kind": "cards"
+        },
+        {
+          "title": "Direct and coach the team",
+          "slide": 108,
+          "kind": "tiles"
+        },
+        {
+          "title": "Implementation control",
+          "slide": 109,
+          "kind": "tiles"
+        }
+      ],
+      "end": 116
+    },
+    "5": {
+      "divider": 117,
+      "content": [
+        {
+          "title": "Control is a feedback system",
+          "slide": 119,
+          "kind": "big"
+        },
+        {
+          "title": "Common-cause and special-cause variation",
+          "slide": 120,
+          "kind": "two"
+        },
+        {
+          "title": "Stability and capability answer different questions",
+          "slide": 121,
+          "kind": "tiles"
+        },
+        {
+          "title": "Cp and Cpk",
+          "slide": 122,
+          "kind": "cards"
+        },
+        {
+          "title": "A control chart separates signal from noise",
+          "slide": 123,
+          "kind": "controlchart"
+        },
+        {
+          "title": "Control limits and specification limits",
+          "slide": 124,
+          "kind": "two"
+        },
+        {
+          "title": "Control-chart signals",
+          "slide": 125,
+          "kind": "tiles"
+        },
+        {
+          "title": "The Control Plan operationalises the PFMEA",
+          "slide": 126,
+          "kind": "controlplan"
+        },
+        {
+          "title": "Control selection principles",
+          "slide": 127,
+          "kind": "tiles"
+        },
+        {
+          "title": "Reaction plan",
+          "slide": 128,
+          "kind": "flow"
+        },
+        {
+          "title": "Monitoring and evaluation",
+          "slide": 129,
+          "kind": "two"
+        },
+        {
+          "title": "Evaluate an improvement",
+          "slide": 130,
+          "kind": "tiles"
+        },
+        {
+          "title": "Closed-loop improvement",
+          "slide": 131,
+          "kind": "flow"
+        },
+        {
+          "title": "Governance review questions",
+          "slide": 132,
+          "kind": "tiles"
+        }
+      ],
+      "end": 139
+    }
+  },
+  "activities": {
+    "1": {
+      "title": "Launch the Orion Continuous Improvement System",
+      "start": 33,
+      "end": 35
+    },
+    "2": {
+      "title": "Define the Process with SIPOC and PDCA",
+      "start": 36,
+      "end": 38
+    },
+    "3": {
+      "title": "Prioritise the Defect Pattern with Pareto Analysis",
+      "start": 54,
+      "end": 56
+    },
+    "4": {
+      "title": "Verify Root Causes with Fishbone, 5 Whys and Fault Tree",
+      "start": 57,
+      "end": 59
+    },
+    "5": {
+      "title": "Build the Orion Process FMEA",
+      "start": 86,
+      "end": 88
+    },
+    "6": {
+      "title": "Rate Risk, Plan Actions and Re-score",
+      "start": 89,
+      "end": 91
+    },
+    "7": {
+      "title": "Select the Improvement Portfolio",
+      "start": 110,
+      "end": 112
+    },
+    "8": {
+      "title": "Pilot, Direct and Coach the Change",
+      "start": 113,
+      "end": 115
+    },
+    "9": {
+      "title": "Evaluate Stability and Capability",
+      "start": 133,
+      "end": 135
+    },
+    "10": {
+      "title": "Create the Process Control Plan and Review Loop",
+      "start": 136,
+      "end": 138
+    }
+  }
+}

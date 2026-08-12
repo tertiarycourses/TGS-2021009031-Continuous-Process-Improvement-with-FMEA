@@ -1,38 +1,40 @@
-# Social Media Analysis using R
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+# Continuous Process Improvement with FMEA
 
-These are the exercise files used for [Social Media Analysis using R](https://www.tertiarycourses.com.sg/social-media-analysis-r.html) course. 
+Source-aligned WSQ courseware for **TGS-2021009031**, built around a connected Process FMEA case for Orion Precision Electronics.
 
-The course outline can be found in 
+## Course package
 
-https://www.tertiarycourses.com.sg/social-media-analysis-r.html
-https://www.tertiarycourses.com.my/social-media-analysis-r-malaysia.html
+- A 146-slide, concept-led trainer deck in PPTX and PDF.
+- A detailed Learner Guide in DOCX, PDF and Markdown.
+- A two-day Lesson Plan with exact slide references.
+- Ten individual activity folders with scenario briefs, checklists, starter workbooks and completed samples.
+- Confidential WA and PP files are generated locally and published only to the approved Google Drive folder; they are excluded from this repository.
 
-<p><strong>Module 1: Creating Network Graphs</strong></p>
-<ul>
-<li>Install sna and igraph packages</li>
-<li>Format data for social network</li>
-<li>Create a graph from existing data</li>
-<li>Create sample graphs</li>
-</ul>
-<p><strong>Module 2: Analyzing Network Graphs</strong></p>
-<ul>
-<li>Measure connectedness of points</li>
-<li>Measure betweenness of points</li>
-<li>Identify cliques in a graph</li>
-<li>Find components in a graph</li>
-<li>Random walk in a graph</li>
-</ul>
-<p><strong>Module 3: Visualizing a Network</strong></p>
-<ul>
-<li>Visualize a network</li>
-<li>Change edge and vertex colors</li>
-<li>Write out a graph</li>
-</ul>
-<p><strong>Module 4: Analyzing Social Media</strong></p>
-<ul>
-<li>Analyze Twitter tweets</li>
-<li>Analyze Facebook graphs of friends</li>
-<li>Analyze Youtube video statistics</li>
-</ul>
-<p></p>
+## Build
+
+```bash
+bash courseware/build/build_courseware.sh
+```
+
+The single source of public instructional content is `courseware/build/course_data.py` together with `data_domain1.py` through `data_domain5.py`. The confidential assessment generator and all assessment papers remain outside this repository.
+
+## Activity journey
+
+1. Launch the continuous improvement system.
+2. Define the process with SIPOC and PDCA.
+3. Prioritise the defect pattern with Pareto analysis.
+4. Verify causes with Fishbone, 5 Whys and Fault Tree Analysis.
+5. Build the Orion Process FMEA.
+6. Rate risk, plan actions and re-score.
+7. Select the improvement portfolio.
+8. Pilot, direct and coach the change.
+9. Evaluate stability and capability.
+10. Create the Process Control Plan and review loop.
+
+## Key references
+
+- [ASQ — FMEA](https://asq.org/quality-resources/fmea)
+- [Jama Software — FMEA guide](https://www.jamasoftware.com/requirements-management-guide/meeting-regulatory-compliance-and-industry-standards/fmea/)
+- [Quality-One — FMEA](https://quality-one.com/fmea/)
+- [PMC — Overview of FMEA as a patient-safety tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC10229026/)
+- [IPH Hannover — FMEA](https://www.iph-hannover.de/de/dienstleistungen/fertigungsverfahren/fmea/)
